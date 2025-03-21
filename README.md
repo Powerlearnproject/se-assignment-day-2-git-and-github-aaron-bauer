@@ -9,9 +9,9 @@ It’s a way to record, track, and organize every modification to a set of files
     Coordinate efforts: Let multiple people contribute without stepping on each other’s toes.
     
 ## Describe the process of setting up a new repository on GitHub. What are the key steps involved, and what are some of the important decisions you need to make during this process?
--Create a GitHub Account 
-- Log into your GitHub account using your username and password.
-- Log into your GitHub account using your username and password.
+ -Create a GitHub Account 
+ - Log into your GitHub account using your username and password.
+ - Log into your GitHub account using your username and password.
 
 ## Discuss the importance of the README file in a GitHub repository. What should be included in a well-written README, and how does it contribute to effective collaboration?
  importance of readme
