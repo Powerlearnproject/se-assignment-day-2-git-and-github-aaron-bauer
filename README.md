@@ -60,6 +60,6 @@ Merge Conflicts:
     Challenge: When multiple developers modify the same files, merge conflicts can occur. 
     Strategies and Best Practices:
     Start with the Basics:
-        Focus on mastering fundamental Git concepts (commits, branches, merges) before diving into more advanced features.
+     Focus on mastering fundamental Git concepts (commits, branches, merges) before diving into more advanced features.
     Practice Regularly:
     Create a personal repository to experiment with Git commands and workflows.
